@@ -1,0 +1,1 @@
+file(COPY ${license_file} DESTINATION "${to}")
