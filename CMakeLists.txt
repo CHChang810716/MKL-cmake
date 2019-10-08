@@ -1,7 +1,7 @@
 
 cmake_minimum_required(VERSION 3.10.0)
 
-project(mkl-cmake-wrapper VERSION 0.19)
+project(mkl-cmake-wrapper VERSION 0.19 LANGUAGES C)
 
 include(ExternalProject) # ExternalProject_Add
 
